@@ -1,8 +1,6 @@
-# Binject
+# Projects
 
-## Projects
-
-### Backdoor Factory
+## Backdoor Factory
 https://binject.github.io/backdoorfactory
 
 
